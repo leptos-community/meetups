@@ -28,7 +28,12 @@
 
 <br/>
 
-- Meetup participant introductions
+- Community introductions (Meetup participants)
 	- Tell us:
 	- your name and/or your online (Github+Discord) name(s)
 	- project you're working on, and/or something interesting about yourself
+
+<br/>
+
+- Post-event networking session: on Discord
+	- We'll hang around in the discord voice channels to chat & network further.
