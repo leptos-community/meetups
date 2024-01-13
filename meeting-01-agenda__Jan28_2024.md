@@ -24,7 +24,7 @@
 		- your name and/or your online (Github+Discord) name(s)
 		- crate you're working on
 		- purpose of the crate / pain point the crate addresses
-		- something short about their crates' implementation, or something interesting about yourself / your hobbies / a shoutout to some project or some thing.
+		- something short about the crates' implementation, or something interesting about yourself / your hobbies / a shoutout to some project or some thing.
 		- call for contributors to your crate(?)
 
 <br/>
