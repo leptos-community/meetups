@@ -11,12 +11,10 @@
 <br/>
 
 - Greg + Ben:
-	- History of and inspiration for Leptos
-	- Navigating the Leptos codebase: a whirlwind tour of the Leptos repo + any tips for how best to learn what's "under the hood"
-	- Leptos v0.6 update: Roadmap to v0.6
-		- *new* server functions
-		- [tachys](https://github.com/gbj/tachys) - new renderer
-	- et cetera
+	- Short history of Leptos (Greg)
+	- Leptos Roadmap to v0.6, v0.7 & beyond
+		- *new* server functions (v0.6) (Ben)
+		- [tachys](https://github.com/gbj/tachys) - new Leptos renderer (v0.7) & other coming attractions (Greg)
 
 <br/>
 
