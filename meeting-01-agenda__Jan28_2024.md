@@ -13,6 +13,9 @@
 - Greg + Ben:
 	- History of and inspiration for Leptos
 	- Navigating the Leptos codebase: a whirlwind tour of the Leptos repo + any tips for how best to learn what's "under the hood"
+	- Leptos v0.6 update:
+		- *new* server functions
+		- [tachys](https://github.com/gbj/tachys) - new renderer
 	- et cetera
 
 <br/>
