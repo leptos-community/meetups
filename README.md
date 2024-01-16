@@ -1,5 +1,8 @@
 # Leptos-Meetups
 A repo for the Leptos Monthly Meetup
 
-The first Leptos Monthly Meetup is (tentatively) scheduled for Sunday, January 28th (2024) at 3pm EST.
+The first Leptos Monthly Meetup is scheduled for Sunday, January 28th (2024) at 3pm EST.
 
+To translate this into your local time, see here: https://time.is/1500_28_Jan_2024_in_EST/PST/MT/United_Kingdom/Germany/India/Australia?Leptos_Meetup
+
+The [meeting agenda](./meeting-01-agenda__Jan28_2024.md) for the first meeting is located [here](./meeting-01-agenda__Jan28_2024.md).
