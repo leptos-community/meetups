@@ -20,7 +20,7 @@
 
 - Introductions to Leptos Ecosystem Authors / Maintainers (dependent upon who is able to attend)
 
-	- Crate authors, please tell us:
+	- Crate authors, please tell us in a 'lightning talk' 3-5 min long:
 		- your name and/or your online (Github+Discord) name(s)
 		- crate you're working on
 		- purpose of the crate / pain point the crate addresses
