@@ -4,7 +4,7 @@ Note:
 - Presenters will use Streamyard to stream to YouTube
 - questions from the community can be asked either via Teams or YouTube comments
 
-*Meetup Part 1: Community gathers on MS Teams for a 'YouTube Watch Party' while presentations stream on YouTube*
+*Meetup Part 1: Community gathers on Google Meet for a 'YouTube Watch Party' while presentations stream on YouTube*
 
 
 
