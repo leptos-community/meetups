@@ -1,7 +1,7 @@
 <div align="center">
   
 # Leptos-rs Meetups
-<br/>
+<br />
 
 </div>
 
