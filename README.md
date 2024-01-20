@@ -1,7 +1,8 @@
 <div align="center">
   
-# Leptos-rs Meetups
+# Leptos Monthly Meetup
 <br />
+[Meetup Agenda][meeting-agenda]
 
 </div>
 
