@@ -42,7 +42,8 @@ Note:
 
 	- Leptos community crate talks agenda (in no particular order):
 		- leptos-use
-		- etc
+		- leptonic
+  		- etc
 
 <br/>
 ---
