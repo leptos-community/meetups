@@ -6,13 +6,12 @@
 
 [Current Meetup Agenda][meeting-agenda]
 
-</div>
-
-
+## Notice
 The first Leptos Monthly Meetup is scheduled for Sunday, January 28th (2024) at 3pm EST.
 
-To [translate this into your local time, see here][meeting-time].
+[Translate the meeting into your local time][meeting-time].
 
+</div>
 
 
 [meeting-agenda]: ./meeting-01-agenda__Jan28_2024.md
