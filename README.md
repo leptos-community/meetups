@@ -4,9 +4,7 @@
 
 <br />
 
-<h3>
-[Current Meetup Agenda][meeting-agenda]
-</h3>
+### [Current Meetup Agenda][meeting-agenda]
 
 </div>
 
