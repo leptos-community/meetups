@@ -50,7 +50,7 @@ Note:
 
 <br/>
 
-*Meetup Part 2: Leptos Community Networking Session on MS Teams*
+*Meetup Part 2: Leptos Community Networking Session on Google Meet*
 
 - Community introductions (w/ Meetup participants)
 	- Please tell us:
