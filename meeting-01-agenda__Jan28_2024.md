@@ -4,7 +4,7 @@ Note:
 - Presenters will use Streamyard to stream to YouTube
 - questions from the community can be asked either via Teams or YouTube comments
 
-*Meetup Part 1: Community gathers on MS Teams for a 'YouTube Watch Party' while presentations stream on YouTube*
+*Meetup Part 1: Community gathers on Google Meet for a 'YouTube Watch Party' while presentations stream on YouTube*
 
 
 
@@ -42,14 +42,15 @@ Note:
 
 	- Leptos community crate talks agenda (in no particular order):
 		- leptos-use
-		- etc
+		- leptonic
+  		- etc
 
 <br/>
 ---
 
 <br/>
 
-*Meetup Part 2: Leptos Community Networking Session on MS Teams*
+*Meetup Part 2: Leptos Community Networking Session on Google Meet*
 
 - Community introductions (w/ Meetup participants)
 	- Please tell us:
