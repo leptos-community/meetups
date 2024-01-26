@@ -73,6 +73,5 @@ Scheduled:
 		- country where you're located (optional)
 		- the project you're working on, and/or something interesting about yourself
 
-- Post-event networking session
-	- Break out into discord for 1-1 chats & further networking.
-
+- Networking session
+	- Feel free to jump out of the Stage event, and join the General voice channel for open chatting 
