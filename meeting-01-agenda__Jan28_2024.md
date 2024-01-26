@@ -11,6 +11,7 @@ Community gathers in Discord Stage for a Watch Party while presentation is strea
 
 ## Introduction to Meetup Series and Organizers 
 Duration: 5 minutes
+
 Speaker: Daniel
 
 - (@diversable, @BlackJackHack, @CoolhandLukefahr)
@@ -21,16 +22,18 @@ Speaker: Daniel
   - Discord Stage
   - X
 
-	- Please follow the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) -- Be respectful of others
+- Please follow the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) -- Be respectful of others
 
 
 ## Introduction to Leptos creator and core maintainers -- Greg Johnston, Ben Wishovitz
 Duration: 5 minutes
+
 Speaker: Daniel
 
 
 ## Presentations with Greg and Ben
 Duration: 30 minutes
+
 Speaker: Greg, Ben 
 
 - Short history of Leptos (Greg)
@@ -42,6 +45,7 @@ Speaker: Greg, Ben
 
 ## Lightning Talks -- Leptos Ecosystem Authors and Maintainers 
 Duration: 20 minutes
+
 Speaker: Various 
 
 - Please tell us in 3-5 minutes:
