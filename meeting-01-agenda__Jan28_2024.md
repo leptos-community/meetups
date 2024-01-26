@@ -1,65 +1,74 @@
-# TENTATIVE Meeting Agenda: January 28th (2024) @ 3pm EST
+# Meeting Agenda: January 28th (2024) @ 3pm EST
 
 Note:
 - Presenters will use Streamyard to stream to YouTube
-- questions from the community can be asked either via Teams or YouTube comments
+- Questions from the community can be asked either via or YouTube comments
 
-*Meetup Part 1: Community gathers on Google Meet for a 'YouTube Watch Party' while presentations stream on YouTube*
+# Part 1: Live Stream and Community Watch Party
 
-
-
-- Introduction to meetup series & meetup organizers (@diversable, @BlackJackHack, @CoolhandLukefahr)
-	- please direct questions/issues to these individuals
-	- Please follow the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) - be respectful of others
-
-<br/>
-
-- Introduction to Greg Johnston, creator of Leptos & the core maintainers ie. Ben Wishovitz
-
-<br/>
-
-- Greg + Ben:
-	- Short history of Leptos (Greg)
-	- Leptos Roadmap to v0.6, v0.7 & beyond
-		- *new* server functions (v0.6) (Ben)
-		- [tachys](https://github.com/gbj/tachys) - new Leptos renderer (v0.7) & other coming attractions (Greg)
-	- short Q & A with Greg & Ben
-
-<br/>
-
-- Introductions to Leptos Ecosystem Authors / Maintainers (dependent upon who is able to attend)
-
-	- Crate authors, please tell us in a 'lightning talk' 3-5 min long:
-		- your name and/or your online (Github+Discord) name(s)
-		- crate you're working on
-		- purpose of the crate / pain point the crate addresses - ie. why you started the project
-		- the current state of your crate (just starting | in progress | feature complete), and your vision for the future of your crate
-		- (optional) say something interesting about the crates' implementation, or something interesting about yourself / your hobbies / etc.
-		- call for contributors to your crate, if desired
-		- quick Q & A
-		- ** please let us know if you're not comfortable streaming to YouTube (we can end the stream before your talk if you'd prefer not to be on YT)
+Community gathers in Discord Stage for a Watch Party while presentation is stremaed on on YouTube and X. Organizers may also stream into the stage as well, or it can simply be watched on YouTube or X. 
 
 
-	- Leptos community crate talks agenda (in no particular order):
-		- leptos-use
-		- leptonic
-  		- etc
+## Introduction to Meetup Series and Organizers 
+Duration: 5 minutes
+Speaker: Daniel
 
-<br/>
----
+- (@diversable, @BlackJackHack, @CoolhandLukefahr)
 
-<br/>
 
-*Meetup Part 2: Leptos Community Networking Session on Google Meet*
+- Questions are welcome, and can be directed to:
+  - YouTube live chat
+  - Discord Stage
+  - X
+
+	- Please follow the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) -- Be respectful of others
+
+
+## Introduction to Leptos creator and core maintainers -- Greg Johnston, Ben Wishovitz
+Duration: 5 minutes
+Speaker: Daniel
+
+
+## Presentations with Greg and Ben
+Duration: 30 minutes
+Speaker: Greg, Ben 
+
+- Short history of Leptos (Greg)
+- Leptos Roadmap to v0.6, v0.7 & beyond
+  - *new* server functions (v0.6) (Ben)
+  - [tachys](https://github.com/gbj/tachys) -- new Leptos renderer (v0.7) & other coming attractions (Greg)
+- Q & A with Greg & Ben (10 minutes)
+
+
+## Lightning Talks - Leptos Ecosystem Authors and Maintainers 
+Duration: 20 minutes
+Speaker: Various 
+
+- Please tell us in 3-5 minutes:
+  - Name and/or your online (GitHub+Discord) name(s)
+  - Crate/Project you're working on
+    - Purpose of the crate / pain point the crate addresses - i.e. why you started the project
+    - The current state of your crate (just starting | in progress | feature complete), and your vision for the future of your crate
+  - Optional
+    - Say something interesting about the crates' implementation, or something interesting about yourself / your hobbies / etc.
+    - Call for contributors to your crate, if desired
+  - Quick Q & A
+
+Note: If you are an author or maintainer and wish not to present during the live presentation, please let us know and you are welcome to present on the Discord stage after the meetup 
+
+Scheduled:
+- leptos-use
+- leptonic
+
+
+# Part 2: Leptos Community Networking Session in Discord 
 
 - Community introductions (w/ Meetup participants)
 	- Please tell us:
-		- your name and/or your online (Github+Discord) name(s)
+		- your name and/or your online (GitHub+Discord) name(s)
 		- country where you're located (optional)
 		- the project you're working on, and/or something interesting about yourself
 
-<br/>
-
 - Post-event networking session
-	- We'll hang around in Teams, and optionally break out into discord for 1-1 chats & further networking.
+	- Break out into discord for 1-1 chats & further networking.
 
