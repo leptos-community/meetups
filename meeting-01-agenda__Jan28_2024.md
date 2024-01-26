@@ -6,7 +6,7 @@ Note:
 
 # Part 1: Live Stream and Community Watch Party
 
-Community gathers in Discord Stage for a Watch Party while presentation is stremaed on on YouTube and X. Organizers may also stream into the stage as well, or it can simply be watched on YouTube or X. 
+Community gathers in Discord Stage for a Watch Party while presentation is streamed on YouTube and X. Organizers may also stream into the stage as well, or it can simply be watched on YouTube or X. 
 
 
 ## Introduction to Meetup Series and Organizers 
@@ -40,21 +40,21 @@ Speaker: Greg, Ben
 - Q & A with Greg & Ben (10 minutes)
 
 
-## Lightning Talks - Leptos Ecosystem Authors and Maintainers 
+## Lightning Talks -- Leptos Ecosystem Authors and Maintainers 
 Duration: 20 minutes
 Speaker: Various 
 
 - Please tell us in 3-5 minutes:
   - Name and/or your online (GitHub+Discord) name(s)
   - Crate/Project you're working on
-    - Purpose of the crate / pain point the crate addresses - i.e. why you started the project
+    - Purpose of the crate / pain point the crate addresses -- i.e. why you started the project
     - The current state of your crate (just starting | in progress | feature complete), and your vision for the future of your crate
   - Optional
     - Say something interesting about the crates' implementation, or something interesting about yourself / your hobbies / etc.
     - Call for contributors to your crate, if desired
   - Quick Q & A
 
-Note: If you are an author or maintainer and wish not to present during the live presentation, please let us know and you are welcome to present on the Discord stage after the meetup 
+Note: If you are an author or maintainer and wish not to present during the live presentation, please let us know, and you are welcome to present on the Discord stage after the meetup 
 
 Scheduled:
 - leptos-use
