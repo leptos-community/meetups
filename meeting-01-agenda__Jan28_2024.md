@@ -73,5 +73,6 @@ Scheduled:
 		- country where you're located (optional)
 		- the project you're working on, and/or something interesting about yourself
 
-- Networking session
+- Networking session and Q&A
+  - Ben and Greg open to answer community questions
 	- Feel free to jump out of the Stage event, and join the General voice channel for open chatting 
