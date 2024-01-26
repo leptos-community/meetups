@@ -75,4 +75,4 @@ Scheduled:
 
 - Networking session and Q&A
   - Ben and Greg open to answer community questions
-	- Feel free to jump out of the Stage event, and join the General voice channel for open chatting 
+  - Feel free to jump out of the Stage event, and join the General voice channel for open chatting 
