@@ -68,6 +68,7 @@ Scheduled:
 ## YouTube Stream Wrap-Up
 
 - Announce date and time for next Leptos Monthly Meetup
+- Please join us on the Leptos Discord server for the community networking session + general Leptos Q & A with Greg and Ben  
 
 
 # Part 2: Leptos Community Networking Session in Discord 
