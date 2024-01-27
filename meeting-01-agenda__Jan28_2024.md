@@ -6,7 +6,7 @@ Note:
 
 # Part 1: Live Stream and Community Watch Party
 
-Community gathers in Discord Stage for a Watch Party while presentation is streamed on YouTube and X. Organizers may also stream into the stage as well, or it can simply be watched on YouTube or X. 
+Community gathers in Discord Stage for a Watch Party while presentation is streamed on YouTube, Twitch and X. Organizers may also stream into the stage as well, or it can simply be watched on YouTube, Twitch or X. 
 
 
 ## Introduction to Meetup Series and Organizers 
@@ -37,10 +37,11 @@ Duration: 30 minutes
 Speaker: Greg, Ben 
 
 - Short history of Leptos (Greg)
-- Leptos Roadmap to v0.6, v0.7 & beyond
-  - *new* server functions (v0.6) (Ben)
+- Leptos Roadmap to v0.7 & beyond; discussion of the new Leptos v0.6 release
   - [tachys](https://github.com/gbj/tachys) -- new Leptos renderer (v0.7) & other coming attractions (Greg)
-- Q & A with Greg & Ben (10 minutes)
+  	- Q & A with Greg (5 minutes)	
+  - *new* server functions (v0.6) (Ben)
+	- Q & A with Ben (5 minutes)
 
 
 ## Lightning Talks -- Leptos Ecosystem Authors and Maintainers 
@@ -63,6 +64,10 @@ Note: If you are an author or maintainer and wish not to present during the live
 Scheduled:
 - leptos-use
 - leptonic
+
+## YouTube Stream Wrap-Up
+
+- Announce date and time for next Leptos Monthly Meetup
 
 
 # Part 2: Leptos Community Networking Session in Discord 
