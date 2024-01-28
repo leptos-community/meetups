@@ -2,7 +2,7 @@
 
 Note:
 - Presenters will use Streamyard to stream to YouTube
-- Questions from the community can be asked either via or YouTube comments
+- Questions from the community can be asked either via Discord or YouTube comments
 
 # Part 1: Live Stream and Community Watch Party
 
