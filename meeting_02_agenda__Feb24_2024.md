@@ -20,7 +20,7 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 		- ...
 
 
-- Project / Library Showcase:
+- Project Showcase:
 	- Long-form talk: Using Leptos to Build Production-Level Apps feat. Houski
 	- Speakers:
 		- Alex
