@@ -1,7 +1,10 @@
+<div align="center">
+
 # Meetup 2: February 24th, 2024 at 3pm EST
 
 ## Part 1: Live Stream and Community Watch Party
 
+</div>
 
 The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Party and ask questions + interact with the speakers on-air via Discord, YouTube, Twitch, or X.
 
@@ -32,8 +35,9 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 	- other business (if any)
 
 
+<div align="center">
 ## Part 2: Community Networking via Discord
-
+</div>
 
 The community can gather after the stream in the Leptos Discord server's 'Voice Channels' to network and ask questions.
 
