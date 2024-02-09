@@ -14,7 +14,7 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 - Meetup Introduction
 	- meeting agenda
 	- Leptos core updates
-		- Greg: Leptos core updates
+		- Greg: Leptos core updates, feat. upcoming changes coming in Leptos v0.7
 		- Ben: updates to the Leptos-Spin WASI integration
 	- Leptos library ecosystem updates
 		- ...
