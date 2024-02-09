@@ -14,19 +14,23 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 - Meetup Introduction
 	- meeting agenda
 	- Leptos core updates
+		- Greg: Leptos core updates
+		- Ben: updates to the Leptos-Spin WASI integration
 	- Leptos library ecosystem updates
+		- ...
 
 
 - Project / Library Showcase:
-	- Long-form talk(s) (1 or 2) - about a Leptos, WASM/WASI, or (Axum | Actix) server-related topic (10 - 20 minutes per talk)
+	- Long-form talk: Using Leptos to Build Production-Level Apps feat. Houski
 	- Speakers:
-		- ...
+		- Alex
 
 
 - Lightning talk(s) (2-4) - quick talks about a project or library (crate)
-	- could also include talks about new features in Rust releases, using Rust (eg. writing macros), or interesting Rust/web features (~5 minutes per talk)
 	- Speakers:
-		- ...
+		- Baptiste: `leptos-i18n`
+		- Matthew: `leptos-hotkeys`
+		- Niko: `leptos-query` and `leptos-image`
 
 
 - Formal wrap-up
