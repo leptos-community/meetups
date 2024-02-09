@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meetup 2: February 24th, 2024 at 3pm EST
+# Meetup 00: <meetup_date>, 2024 at 3pm EST
 
 ## Part 1: Live Stream and Community Watch Party
 
