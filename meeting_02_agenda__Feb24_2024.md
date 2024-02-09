@@ -36,8 +36,11 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 
 
 <div align="center">
+
 ## Part 2: Community Networking via Discord
+
 </div>
+
 
 The community can gather after the stream in the Leptos Discord server's 'Voice Channels' to network and ask questions.
 
