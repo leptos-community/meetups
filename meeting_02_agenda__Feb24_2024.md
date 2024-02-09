@@ -14,7 +14,7 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 - Meetup Introduction
 	- meeting agenda
 	- Leptos core updates
-	- Leptos library ecosystem updates (if any)
+	- Leptos library ecosystem updates
 
 
 - Project / Library Showcase:
