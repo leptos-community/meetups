@@ -14,6 +14,7 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 - Meetup Introduction
 	- meeting agenda
 	- Leptos core updates
+		- Q & A
 	- Leptos library ecosystem updates
 
 
@@ -21,12 +22,14 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 	- Long-form talk(s) (1 or 2) - about a Leptos, WASM/WASI, or (Axum | Actix) server-related topic (10 - 20 minutes per talk)
 	- Speakers:
 		- ...
+	- Q & A
 
 
 - Lightning talk(s) (2-4) - quick talks about a project or library (crate)
 	- could also include talks about new features in Rust releases, using Rust (eg. writing macros), or interesting Rust/web features (~5 minutes per talk)
 	- Speakers:
 		- ...
+	- Q & A
 
 
 - Formal wrap-up
@@ -42,8 +45,9 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 </div>
 
 
-The community can gather after the stream in the Leptos Discord server's 'Voice Channels' to network and ask questions.
+The community can gather after the stream in the Leptos Discord server's 'Voice Channels' to network & chat.
 
-- Questions
-- Collaboration
-- More Rust & Leptos
+There will be more:
+- Questions asked and answered
+- Opportunities for collaboration
+- and more Rust & Leptos!
