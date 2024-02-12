@@ -59,4 +59,4 @@ There will be more:
 - Opportunities for collaboration
 - and more Rust & Leptos!
 
-* To be determined
+`*` To be determined
