@@ -8,6 +8,7 @@
 
 The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Party and ask questions + interact with the speakers on-air via Discord, YouTube, Twitch, or X.
 
+If you haven't joined the Leptos Discord yet, [here is your invite](https://discord.gg/x8NhWWYTV2)!
 
 ### Live-Stream Agenda
 
