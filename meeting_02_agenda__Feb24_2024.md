@@ -12,13 +12,11 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 ### Live-Stream Agenda
 
 
-- Meetup Introduction
-	- meeting agenda
-	- Leptos core updates
-		- Greg: Leptos core updates, feat. upcoming changes coming in Leptos v0.7
-			- Q & A
-		- Ben: updates to the Leptos-Spin WASI integration
-			- Q & A
+- Leptos core updates
+	- Greg: Leptos core updates, feat. upcoming changes coming in Leptos v0.7
+		- Q & A
+	- Ben: updates to the Leptos-Spin WASI integration
+		- Q & A
 
 
 - Project Showcase:
@@ -62,5 +60,3 @@ There will be more:
 - Questions asked and answered
 - Opportunities for collaboration
 - and more Rust & Leptos!
-
-`*` To be determined
