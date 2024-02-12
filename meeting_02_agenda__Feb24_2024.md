@@ -15,8 +15,10 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 	- meeting agenda
 	- Leptos core updates
 		- Greg: Leptos core updates, feat. upcoming changes coming in Leptos v0.7
+			- Q & A
 		- Ben: updates to the Leptos-Spin WASI integration
-	- Leptos library ecosystem updates
+			- Q & A
+	- Leptos library ecosystem updates (*)
 		- ...
 
 
@@ -24,13 +26,17 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 	- Long-form talk: Using Leptos to Build Production-Level Apps feat. Houski
 	- Speakers:
 		- Alex
+	- Q & A
 
 
 - Lightning talk(s) (2-4) - quick talks about a project or library (crate)
 	- Speakers:
 		- Baptiste: `leptos-i18n`
+			- Q & A
 		- Matthew: `leptos-hotkeys`
+			- Q & A
 		- Niko: `leptos-query` and `leptos-image`
+			- Q & A
 
 
 - Formal wrap-up
@@ -46,8 +52,11 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 </div>
 
 
-The community can gather after the stream in the Leptos Discord server's 'Voice Channels' to network and ask questions.
+The community can gather after the stream in the Leptos Discord server's 'Voice Channels' to network & chat.
 
-- Questions
-- Collaboration
-- More Rust & Leptos
+There will be more:
+- Questions asked and answered
+- Opportunities for collaboration
+- and more Rust & Leptos!
+
+* To be determined
