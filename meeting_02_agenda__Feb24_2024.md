@@ -40,6 +40,7 @@ The community can gather on the Leptos Discord's 'Stage' for a YouTube Watch Par
 
 - Leptos Library ecosystem updates
 	- `leptos-use`: maccesch
+	- ..
 
 
 - Formal wrap-up
