@@ -21,7 +21,7 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 
 
 - Project Showcase:
-	- Long-form talk: Using Leptos to Build Production-Level Apps feat. Houski
+	- Long-form talk: Using Leptos to Build Production-Level Apps feat. [Houski](https://www.houski.ca)
 	- Speakers:
 		- Alex
 	- Q & A
@@ -29,11 +29,11 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 
 - Lightning talk(s) (2-4) - quick talks about a project or library (crate)
 	- Speakers:
-		- Baptiste: `leptos-i18n`
+		- Baptiste: [`leptos-i18n`](https://github.com/Baptistemontan/leptos_i18n)
 			- Q & A
-		- Matthew: `leptos-hotkeys`
+		- Matthew: [`leptos-hotkeys`](https://github.com/friendlymatthew/leptos-hotkeys)
 			- Q & A
-		- Niko: `leptos-query` and `leptos-image`
+		- Niko: [`leptos-query`](https://github.com/nicoburniske/leptos_query) and [`leptos-image`](https://github.com/nicoburniske/leptos_image)
 			- Q & A
 
 
