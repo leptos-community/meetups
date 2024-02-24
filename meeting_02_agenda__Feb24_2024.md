@@ -38,7 +38,8 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 
 
 - Leptos Library ecosystem updates
-	- maccesch: [`leptos-use`](https://github.com/synphonyte/leptos-use)
+	- Lukas: [Leptonic](https://github.com/lpotthast/leptonic)
+ 	- maccesch: [`leptos-use`](https://github.com/synphonyte/leptos-use)
 	- ..
 
 
