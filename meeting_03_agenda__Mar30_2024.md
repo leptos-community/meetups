@@ -16,7 +16,7 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 - Meetup Introduction
 	- meeting agenda
 	- Leptos core updates
-		- Q & A
+		- Ben: Alpha 0.7 Release, Rust Nation UK demo
 	- Leptos library ecosystem updates
 
 
