@@ -14,30 +14,33 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 ### Live-Stream Agenda
 
 - Meetup Introduction
-	- meeting agenda
-	- Leptos core updates
-		- Ben: Alpha 0.7 Release, Rust Nation UK demo
-	- Leptos library ecosystem updates
+	- Meeting agenda
+
+- Leptos core updates
+	- Ben: Alpha 0.7 Release, Rust Nation UK
+
+- Leptos library ecosystem updates
+	- [tailwind-fuse](https://github.com/gaucho-labs/tailwind-fuse) w/Nico
+	- [leptos-hotkeys](https://github.com/gaucho-labs/leptos-hotkeys) w/Matthew
 
 
 - Project / Library Showcase:
-	- Long-form talk(s) (1 or 2) - about a Leptos, WASM/WASI, or (Axum | Actix) server-related topic (10 - 20 minutes per talk)
+	- Long-form talk(s) (1 or 2) - about a Leptos, WASM/WASI, or (Axum | Actix) server-related topic (10 - 20 minutes per talk, with Q&A)
+	- Speakers:
+		- Code to the Moon
+
+
+- Lightning talk(s) (2-4) - Quick talks about a project or library (crate)
+	- Could also include talks about new features in Rust releases, using Rust (eg. writing macros), or interesting Rust/web features (~5 minutes per talk with Q&A)
 	- Speakers:
 		- ...
-	- Q & A
 
-
-- Lightning talk(s) (2-4) - quick talks about a project or library (crate)
-	- could also include talks about new features in Rust releases, using Rust (eg. writing macros), or interesting Rust/web features (~5 minutes per talk)
-	- Speakers:
-		- ...
-	- Q & A
-
-
-- Formal wrap-up
-	- upcoming Rust / Web events
-	- community notices / shout-outs re: anything from community members
-	- other business (if any)
+- Closing
+	- Upcoming Rust / Web events
+		- Next Leptos Meetup: Last Saturday at 3pm ET, which is April 27th.
+	- Community notices / shout-outs re: anything from community members
+		- Join our Discord server!
+	- Other business (if any)
 
 
 <div align="center">
