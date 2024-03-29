@@ -17,6 +17,9 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 	- Meeting agenda
 
 - Leptos core updates
+	- Greg
+		- Updates on 0.7
+		- Leptos-GTK demo
 	- Ben
  		- Alpha 0.7 Release
 		- Rust Nation UK
