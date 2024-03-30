@@ -25,12 +25,10 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 		- Rust Nation UK
 
 - Project / Library Showcase:
-	- Long-form talk(s) (1 or 2) - about a Leptos, WASM/WASI, or (Axum | Actix) server-related topic (10 - 20 minutes per talk, with Q&A)
-	- Speakers:
-		- Code to the Moon
-			- Brief intro and bio
-			- Why Leptos?
-			- Course drop!
+	- Code to the Moon
+		- Brief intro and bio
+		- Why Leptos?
+		- Course drop!
 
 - Leptos library ecosystem updates
 	- [tailwind-fuse](https://github.com/gaucho-labs/tailwind-fuse) w/Nico
