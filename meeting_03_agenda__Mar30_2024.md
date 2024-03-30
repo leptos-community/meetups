@@ -32,7 +32,6 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 
 - Leptos library ecosystem updates
 	- [tailwind-fuse](https://github.com/gaucho-labs/tailwind-fuse) w/Nico
-	- [leptos-hotkeys](https://github.com/gaucho-labs/leptos-hotkeys) w/Matthew
 
 - Closing
 	- Upcoming Rust / Web events
