@@ -1,5 +1,3 @@
-<div align="center">
-
 # Meetup 03: April 27th, 2024 at 3pm ET
 
 ## Part 1: Live Stream and Community Watch Party
@@ -29,8 +27,6 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 	- Community notices / shout-outs re: anything from community members
 		- Join our Discord server!
 	- Other business (if any)
-
-<div align="center">
 
 ## Part 2: Community Networking via Discord
 
