@@ -13,7 +13,9 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 
 - Leptos core updates
 	- Greg
+		- Code-splitting demo
 	- Ben
+ 		- Rust Unconference proposals
  		
 
 - Leptos library ecosystem updates
