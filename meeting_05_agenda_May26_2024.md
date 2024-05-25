@@ -21,6 +21,7 @@ If you haven't joined the Leptos Discord yet, [here is your invite](https://disc
 - Leptos library ecosystem updates
   - Maccesh
     - [Leptos-Use](https://leptos-use.rs/)
+      - leptos-struct-table
   - Adeoye
     - [Leptos Remix Icon](https://github.com/opeolluwa/leptos-remix-icon)
 
