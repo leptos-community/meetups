@@ -8,6 +8,8 @@ If you haven't already, [join the Leptos Discord](https://discord.gg/x8NhWWYTV2)
 
 ### Live-Stream Agenda
 
+Be sure to [subscribe to Leptos on Youtube](https://www.youtube.com/channel/UCv3ZS8DCsFns5OnijJOA4xg) to catch the livestream. Link well be posted in Discord server and on socials in advance.
+
 - Meetup Introduction
 	- Meeting agenda
 
@@ -32,3 +34,5 @@ There will be more:
 - Questions asked and answered
 - Opportunities for collaboration
 - and more Rust & Leptos!
+
+[Follow Leptos on X!](https://x.com/leptos_dev)
