@@ -1,4 +1,4 @@
-# Meetup 06: June 30th, 2024 at 3pm ET
+# Meetup 06: June 29th, 2024 at 3pm ET
 
 ## Part 1: Live Stream and Community Watch Party
 
