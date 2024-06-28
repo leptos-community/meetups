@@ -14,6 +14,8 @@ Be sure to [subscribe to Leptos on Youtube](https://www.youtube.com/channel/UCv3
 	- Meeting agenda
 
 - Leptos core updates
+   - Greg: Introduction to 0.7 alpha
+   - Ben: Pavex Sneak preview
 
 - Leptos library ecosystem updates
 
