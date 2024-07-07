@@ -14,9 +14,9 @@ If you haven't already, [join the Leptos Discord](https://discord.gg/x8NhWWYTV2)
 
 - Leptos core updates
    - Greg
-   Ben on Pavex integration
+   - Ben on Pavex integration
 
-- Gues Speaker: Luca Palmiari
+- Guest Speaker: Luca Palmieri
 
 - Leptos library ecosystem updates
 
