@@ -1,14 +1,13 @@
 # Meetup 07: July 27th, 2024 at 3pm ET
 
-## Part 1: Live Stream and Community Watch Party
+
+Be sure to [subscribe to Leptos on Youtube](https://www.youtube.com/channel/UCv3ZS8DCsFns5OnijJOA4xg) to catch the livestream. Link well be posted in Discord server and on socials in advance.
 
 The community can gather in Leptos Discord for a YouTube Watch Party and ask questions + interact with the speakers on-air via Discord, YouTube, Twitch, or X.
 
 If you haven't already, [join the Leptos Discord](https://discord.gg/x8NhWWYTV2)!
 
 ### Live-Stream Agenda
-
-Be sure to [subscribe to Leptos on Youtube](https://www.youtube.com/channel/UCv3ZS8DCsFns5OnijJOA4xg) to catch the livestream. Link well be posted in Discord server and on socials in advance.
 
 - Meetup Introduction
 	- Meeting agenda
