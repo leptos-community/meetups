@@ -13,8 +13,10 @@ If you haven't already, [join the Leptos Discord](https://discord.gg/x8NhWWYTV2)
 	- Meeting agenda
 
 - Leptos core updates
+    - Ben gives updates to 0.7
 
 - Leptos library ecosystem updates
+    - [Leptos Websocket](Leptos Websocket: https://github.com/TimTom2016/leptos_ws)
 
 - Closing
 	- Upcoming Rust / Web events
